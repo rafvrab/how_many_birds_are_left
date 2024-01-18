@@ -21,4 +21,4 @@ This Python project delves into the mathematical analysis of a classic joke invo
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/rafvrab/how_many_birds_are_left.git
